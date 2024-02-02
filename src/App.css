@@ -1,0 +1,46 @@
+*
+{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.main
+{
+  width: 30%;
+  border: 1px solid black;	
+  background-color: lightgray;
+  margin: 20px;
+  box-shadow: 0px 0px 10px black;		
+}
+.h1
+{
+  background-color: grey;
+  padding: 10px 0;
+  text-align: center;
+}
+.loan_a
+{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-bottom: 6px;
+
+}
+.one
+{
+  margin: 20px 0;
+}
+.input_amt,.btn
+{
+  padding: 10px 0;
+  margin: 0 10px;
+  width:96%;
+}
+.btn
+{
+  background-color: orange;
+  border: none;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
